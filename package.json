@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "A Blockchain made with Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/byungsujeong/typechain",
+  "author": "byungsu.jeong <byungsu.jeong88@gmail.com>",
+  "license": "MIT"
+}
